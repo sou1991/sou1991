@@ -15,7 +15,7 @@ const sou1991 = {
     backEnd: {
 	  CSharp: ["ASP.NET",".NET Core"],
 	  Ruby: ["RoR"],
-      go: ["gin"],
+	  go: ["gin"],
     },
     learning: ["Rust"],
   },
