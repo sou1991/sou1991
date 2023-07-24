@@ -10,7 +10,7 @@ const sou1991 = {
   },
   technologies: {
     webFront: {
-    	js: ["Vanilla JS"],
+    	js: ["JavaScript"],
     },
     backEnd: {
 	CSharp: ["ASP.NET",".NET Core"],
