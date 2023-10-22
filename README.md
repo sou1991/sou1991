@@ -17,7 +17,7 @@ const sou1991 = {
 	Ruby: ["RoR"],
 	go: ["gin"],
     },
-    learning: ["Rust"],
+    learning: [""],
   },
 }
 ```
