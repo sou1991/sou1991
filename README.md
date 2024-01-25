@@ -17,6 +17,9 @@ const sou1991 = {
 	Ruby: ["RoR"],
 	go: ["gin"],
     },
+    infrastructure: {
+	cloud: "GCP"
+    },
   },
 }
 ```
